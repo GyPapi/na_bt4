@@ -1,0 +1,9 @@
+.blue-bg {
+    background-color: cornflowerblue;
+    color: #f0f0f0;
+    border: 1px solid white;
+}
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    padding-top: 3.5rem;
+  }
