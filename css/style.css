@@ -1,6 +1,5 @@
-
 @import url('https://fonts.googleapis.com/css?family=Roboto:300&subset=latin-ext');
-
+@import url('../lib/font-awesome-4.7.0/css/font-awesome.min.css');
 .blue-bg {
     background-color: cornflowerblue;
     color: #f0f0f0;
