@@ -1,8 +1,19 @@
 
 
+bootstrepp:
 http://getbootstrap.com/
 
+
+icons:
 http://fontawesome.io/
 https://material.io/icons/
 
+
+fontok:
 https://fonts.google.com/
+
+
+színek:
+https://www.w3schools.com/colors/colors_hex.asp
+https://color.adobe.com/create/color-wheel/
+
